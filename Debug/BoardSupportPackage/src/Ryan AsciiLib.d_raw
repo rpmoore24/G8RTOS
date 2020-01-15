@@ -1,0 +1,6 @@
+BoardSupportPackage/src/AsciiLib.obj: C:/Users/Ryan Moore/workspace_v8/BoardSupportPackage/src/AsciiLib.c
+BoardSupportPackage/src/AsciiLib.obj: C:/Users/Ryan Moore/workspace_v8/BoardSupportPackage/inc/AsciiLib.h
+BoardSupportPackage/src/AsciiLib.obj: C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.4.LTS/include/string.h
+BoardSupportPackage/src/AsciiLib.obj: C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.4.LTS/include/_ti_config.h
+BoardSupportPackage/src/AsciiLib.obj: C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.4.LTS/include/linkage.h
+BoardSupportPackage/src/AsciiLib.obj: C:/ti/ccsv8/tools/compiler/ti-cgt-arm_18.1.4.LTS/include/sys/cdefs.h
